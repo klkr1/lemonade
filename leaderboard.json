@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-09-22T07:08:47.212977+00:00",
+  "run_id": "35193075072",
+  "run_url": "https://github.com/klkr1/lemonade/actions/runs/35193075072",
+  "repo": "klkr1/lemonade",
+  "repo_url": "https://github.com/klkr1/lemonade",
+  "actions_url": "https://github.com/klkr1/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "6d0e01f505b10d13841da1822c118b8a9daae9a2",
+  "lemonade_version": null,
+  "experimental_forks": [
+    "llamacpp-hrx"
+  ],
+  "by_model_scenario": {},
+  "history": {}
+}
